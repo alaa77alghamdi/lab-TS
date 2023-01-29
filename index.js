@@ -19,3 +19,7 @@ var tech = [
     { id: 2, name: 'sara', specialty: '2', courseNum: 8686 },
     { id: 3, name: 'noor', specialty: '4', courseNum: 9974 }
 ];
+function course(tech, courseNum) {
+    tech.courseNum;
+    return tech;
+}

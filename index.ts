@@ -49,7 +49,12 @@ interface Teacher   {
 
 
 
+    function course(tech,courseNum: number) {
 
+         tech.courseNum;
+    
+        return tech;
+    }
 
 
 export{}
