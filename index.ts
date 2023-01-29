@@ -46,7 +46,10 @@ interface Teacher   {
     ]
     
 
-
+function isSenior(student,school:Student){
+let isSenior=Boolean
+    return isSenior 
+}
 
 
     function course(tech,courseNum: number) {
